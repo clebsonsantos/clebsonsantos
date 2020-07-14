@@ -1,11 +1,12 @@
 ### Hey, bem vindo ao meu perfil.  👋
-``
+
+```
 Sou um desenvolvedor Front-end que está sempre buscando algo novo, um novo desafio. Seja web ou mobile, tudo me fascina. 
 
-``
+```
 
 ### 🎬 Estou trabalhando atualmente como Auxliar admministrativo Junior
-- 
+
 ###  💾 Estou aprendendo atualmente as tecnologias:
 - Reactjs
 - React Native
