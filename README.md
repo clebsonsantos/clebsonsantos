@@ -4,7 +4,6 @@
 Sou um desenvolvedor Front-end que está sempre buscando algo novo, um novo desafio. Seja web ou mobile, tudo me fascina. 
 
 ```
-
 ### 🎧 Minhas Skills
 - Javascript
 - NodeJs
@@ -12,8 +11,7 @@ Sou um desenvolvedor Front-end que está sempre buscando algo novo, um novo desa
 - Git
 - Css 
 - Sass 
-
-### 🎬 Estou trabalhando atualmente como Auxliar admministrativo Junior
+<!-- ### 🎬 Estou trabalhando atualmente como Auxliar admministrativo Junior --> 
 
 ###  💾 Estou aprendendo atualmente as tecnologias:
 - Reactjs
