@@ -8,11 +8,9 @@ Sou um desenvolvedor Front-end que está sempre buscando algo novo, um novo desa
 - Javascript
 - NodeJs
 - Bootstrap 
-- Git
 - Css 
 - Sass 
 <!-- ### 🎬 Estou trabalhando atualmente como Auxliar admministrativo Junior --> 
-
 ###  💾 Estou aprendendo atualmente as tecnologias:
 - Reactjs
 - React Native
