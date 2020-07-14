@@ -5,6 +5,14 @@ Sou um desenvolvedor Front-end que está sempre buscando algo novo, um novo desa
 
 ```
 
+### 🎧 Minhas Skills
+- Javascript
+- NodeJs
+- Bootstrap 
+- Git
+- Css 
+- Sass 
+
 ### 🎬 Estou trabalhando atualmente como Auxliar admministrativo Junior
 
 ###  💾 Estou aprendendo atualmente as tecnologias:
