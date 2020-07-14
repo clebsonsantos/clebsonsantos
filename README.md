@@ -1,4 +1,4 @@
-### Hey, bem vindo ao meu perfil.  👋
+## Hey, bem vindo ao meu perfil.  👋
 
 ```
 Sou um desenvolvedor Front-end que está sempre buscando algo novo, um novo desafio. Seja web ou mobile, tudo me fascina. 
@@ -8,8 +8,7 @@ Sou um desenvolvedor Front-end que está sempre buscando algo novo, um novo desa
 - Javascript
 - NodeJs
 - Bootstrap 
-- Css 
-- Sass 
+- Sass - Css
 <!-- ### 🎬 Estou trabalhando atualmente como Auxliar admministrativo Junior --> 
 ###  💾 Estou aprendendo atualmente as tecnologias:
 - Reactjs
