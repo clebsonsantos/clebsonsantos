@@ -22,7 +22,7 @@ Atualmente estou desenvolvendo uma aplicação mobile que facilite a doação de
 - https://instagram.com/clebsantos96
 - https://www.linkedin.com/in/clebson-santos-1270aa18b
 - clebsonsantosmtt@gmail.com
-- clebsonsantos.com (em breve!!)
+- https://clebsonsantos.com
 
 
 
