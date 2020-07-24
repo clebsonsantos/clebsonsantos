@@ -7,16 +7,15 @@ Atualmente estou desenvolvendo uma aplicação mobile que facilite a doação de
 ```
 ### 🎧 Minhas Skills
 - Javascript
-- NodeJs
 - Bootstrap 
 - Sass - Css
+- Php
 <!-- ### 🎬 Estou trabalhando atualmente como Auxliar admministrativo Junior --> 
 ###  💾 Estou aprendendo atualmente as tecnologias:
-- Reactjs
-- React Native
-- Nodejs
-- Php
-- Banco de dados(NoSql, Sql)
+-  [x] Reactjs
+-  [ ] React Native
+-  [x] Nodejs
+-  [ ] Banco de dados(postgres, SqlLite)
 
 ### 📫 Como chegar até mim:
 - https://instagram.com/clebsantos96
