@@ -2,7 +2,6 @@
 
 ```
 Sou um desenvolvedor Front-end que está sempre buscando algo novo. Seja web ou mobile, tudo me fascina. 
-Atualmente estou desenvolvendo uma aplicação mobile que facilite a doação de livros na minha cidade. 📘
 
 ```
 ### 🎧 Minhas Skills
