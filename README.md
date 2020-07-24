@@ -12,9 +12,9 @@ Atualmente estou desenvolvendo uma aplicação mobile que facilite a doação de
 - Php
 <!-- ### 🎬 Estou trabalhando atualmente como Auxliar admministrativo Junior --> 
 ###  💾 Estou aprendendo atualmente as tecnologias:
+-  [x] Nodejs
 -  [x] Reactjs
 -  [ ] React Native
--  [x] Nodejs
 -  [ ] Banco de dados(postgres, SqlLite)
 
 ### 📫 Como chegar até mim:
@@ -22,6 +22,7 @@ Atualmente estou desenvolvendo uma aplicação mobile que facilite a doação de
 - https://www.linkedin.com/in/clebson-santos-1270aa18b
 - clebsonsantos.dev@gmail.com
 - https://clebsonsantos.com
+
 
 
 
