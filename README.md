@@ -12,6 +12,7 @@ Sou um desenvolvedor Front-end que está sempre buscando algo novo. Seja web ou 
 - Mysql
 <!-- ### 🎬 Estou trabalhando atualmente como Auxliar admministrativo Junior --> 
 ###  💾 Estou aprendendo atualmente as tecnologias:
+-  [x] ES6
 -  [x] Nodejs
 -  [x] Reactjs
 -  [ ] React Native
