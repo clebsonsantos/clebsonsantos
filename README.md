@@ -9,6 +9,7 @@ Sou um desenvolvedor Front-end que está sempre buscando algo novo. Seja web ou 
 - Bootstrap 
 - Sass - Css
 - Php
+- Mysql
 <!-- ### 🎬 Estou trabalhando atualmente como Auxliar admministrativo Junior --> 
 ###  💾 Estou aprendendo atualmente as tecnologias:
 -  [x] Nodejs
