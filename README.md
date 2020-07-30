@@ -14,9 +14,10 @@ Sou um desenvolvedor Front-end que está sempre buscando algo novo. Seja web ou 
 ###  💾 Estou aprendendo atualmente as tecnologias:
 -  [x] ES6
 -  [x] Nodejs
--  [x] Reactjs
+-  [x] Banco de dados(mysql SqlLite)
+-  [ ] Reactjs
 -  [ ] React Native
--  [ ] Banco de dados(postgres, SqlLite)
+
 
 ### 📫 Como chegar até mim:
 - https://instagram.com/clebsantos96
