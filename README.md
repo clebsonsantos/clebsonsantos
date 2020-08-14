@@ -9,10 +9,10 @@ I am a Front-end developer who is always looking for something new. Whether web 
 - Bootstrap 
 - Sass - Css
 - Git
-<!-- ### 🎬 Estou trabalhando atualmente como Auxliar admministrativo Junior --> 
+- EJS (view engine)
+
 ###  💾 Study currently:
 -  [x] ES6
--  [x] EJS - View engine
 -  [x] Nodejs
 -  [x] Banco de dados(Mysql, SqlLite)
 -  [ ] Reactjs
