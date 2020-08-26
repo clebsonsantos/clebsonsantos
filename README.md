@@ -14,7 +14,7 @@ I am a Front-end developer who is always looking for something new. Whether web 
 ###  💾 Study currently:
 -  [x] ES6
 -  [x] Nodejs
--  [x] Banco de dados(Mysql, SqlLite)
+-  [x] Data Base(Mysql, SqlLite)
 -  [ ] Reactjs
 -  [ ] React Native
 
