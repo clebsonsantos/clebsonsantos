@@ -10,12 +10,12 @@ I am a Front-end developer who is always looking for something new. Whether web 
 - Sass - Css
 - Git
 - EJS (view engine)
+- Nodejs
 
 ###  💾 Study currently:
 -  [x] ES6
--  [x] Nodejs
 -  [x] Data Base(Mysql, SqlLite)
--  [ ] Reactjs
+-  [x] Reactjs
 -  [ ] React Native
 
 ### 📫 Find me:
