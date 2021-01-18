@@ -6,17 +6,19 @@ I am a Front-end developer who is always looking for something new. Whether web 
 ```
 ### 🎧 My Skills
 - Javascript
-- Bootstrap 
-- Sass - Css
+- CSS
 - Git
 - EJS (view engine)
 - Nodejs
+- React JS
+- React Native
+- ES6
+- Data Base(Mysql, SqlLite, MongoDB)
 
 ###  💾 Study currently:
--  [x] ES6
--  [x] Data Base(Mysql, SqlLite)
--  [x] Reactjs
--  [ ] React Native
+-  [x] Typescript
+-  [ ] TDD
+
 
 ### 📫 Find me:
 - [Instagram]( https://instagram.com/clebsantos96)
