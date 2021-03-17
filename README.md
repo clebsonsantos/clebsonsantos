@@ -13,6 +13,7 @@ I am a Front-end developer who is always looking for something new. Whether web 
 - React JS
 - React Native
 - ES6
+- Styled-Components
 - Data Base(Mysql, SqlLite, MongoDB)
 
 ###  💾 Study currently:
