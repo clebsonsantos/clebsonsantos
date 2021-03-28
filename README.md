@@ -1,7 +1,7 @@
 <h1 align="center"> Hey  👋, I am Clebson. </h1>
 
 ```
-I am a Front-end developer who is always looking for something new. Whether web or mobile, everything fascinates me.  
+I am a full stack developer who is always looking for new challenges. I am self-taught and focused on nodejs and native React.
 
 ```
 ### 🎧 My Skills
