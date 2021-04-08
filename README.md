@@ -19,7 +19,8 @@ I am self-taught and focused on Nodejs and React native.
 
 ###  💾 Study currently:
 -  [x] Typescript
--  [ ] TDD
+-  [x] Next.js
+-  [x] TDD
 
 
 ### 📫 Find me:
