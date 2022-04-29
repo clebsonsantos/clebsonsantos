@@ -1,4 +1,4 @@
-<h1 align="left"> Hey <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Clebson. </h1>
+<h1 align="left"><img src="https://fontmeme.com/permalink/220429/cf3a9ff9b7cde61efea7d7a20160ab21.png"> </h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=clebsonsantos&color=yellow" alt="Profile views" /> </p>
 <br><br>
 
