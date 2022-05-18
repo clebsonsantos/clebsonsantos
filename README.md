@@ -35,14 +35,14 @@
 
 <br><br>
 
-## ⚙️ &nbsp;GitHub Analytics
+<!-- ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
 <img width="530em" src="https://github-readme-stats.vercel.app/api?username=clebsonsantos&show_icons=true&theme=vision-friendly-dark" alt="clebsonsantos stats"/>
 <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=clebsonsantos&layout=compact&theme=vision-friendly-dark" alt="clebsonsantos most languages"/>
 </p>
 
-<br><br>
+<br><br> -->
 
 <p align="left" style="background:yellow">
 <a href="https://www.linkedin.com/in/clebson-santos-1270aa18b/" target="_blank">
