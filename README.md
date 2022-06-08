@@ -59,4 +59,5 @@
 -  [x] Python
 -  [x] Next.js
 -  [x] TDD
+-  [x] Java (P.O.O)
 
