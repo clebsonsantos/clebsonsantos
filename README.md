@@ -2,13 +2,13 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=clebsonsantos&color=yellow" alt="Profile views" /> </p>
 <br><br>
 
-- 🔥 Junior Web Developer & focused on programming javascript
+- 🔥 Full Stack developer, but focused on backend with Typescript
 
 - 🔭 I’m currently working at [HopChat](https://hopchat.com.br)
 
 - 👨‍💻 All of my projects are available at [clebsonsantos.com](https://clebsonsantos.com)
 
-- 💬 In constant learning **JavaScript, HTML, CSS, SQL/NoSQL, NodeJs, React, React Native, Docker, Typescript**
+- 💬 In constant learning **NodeJs, React, React Native, Docker, Typescript**
 
 - ⚡ Fun fact **Maths teacher 🎓**
 
