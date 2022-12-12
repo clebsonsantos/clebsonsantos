@@ -6,8 +6,6 @@
 
 - 🔭 I’m currently working at [HopChat](https://hopchat.com.br)
 
-- 👨‍💻 All of my projects are available at [clebsonsantos.com](https://clebsonsantos.com)
-
 - ⚡ Fun fact **Maths teacher 🎓**
 
 
