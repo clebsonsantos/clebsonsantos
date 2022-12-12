@@ -2,7 +2,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=clebsonsantos&color=yellow" alt="Profile views" /> </p>
 <br><br>
 
-- 🔥 Full Stack developer, but focused on backend with Typescript
+- 🔥 Full Stack developer, but focused on backend.
 
 - 🔭 I’m currently working at [HopChat](https://hopchat.com.br)
 
