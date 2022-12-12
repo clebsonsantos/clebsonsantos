@@ -8,8 +8,6 @@
 
 - 👨‍💻 All of my projects are available at [clebsonsantos.com](https://clebsonsantos.com)
 
-- 💬 In constant learning **NodeJs, React, React Native, Docker, Typescript**
-
 - ⚡ Fun fact **Maths teacher 🎓**
 
 
