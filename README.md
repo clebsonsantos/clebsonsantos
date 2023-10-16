@@ -50,6 +50,4 @@
 ## 💾 &nbsp;Study currently:
 
 -  [x] English
--  [x] Python
--  [x] Next.js
 
