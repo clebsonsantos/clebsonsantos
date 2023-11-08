@@ -4,8 +4,6 @@
 
 - 🔥 Full Stack developer, but focused on backend.
 
-- 🔭 I’m currently working at [HopChat](https://hopchat.com.br)
-
 - ⚡ Fun fact **Maths teacher 🎓**
 
 
