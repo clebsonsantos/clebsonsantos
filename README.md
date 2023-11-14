@@ -57,7 +57,7 @@
 </a>
 </p>
 
-## 💾 &nbsp;Study currently:
+## 💾 &nbsp;I'm studing currently:
 
 -  [x] English
 
